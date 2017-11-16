@@ -137,5 +137,19 @@ border:1px black solid;
 	color: yellow;
 	font-size: 60px;
 }
+.vote
+{
+
+	width: 1024px;
+	height: 100%;
+	border: 1px black solid;
+	background: #f441a6;
+}
+.vote h2
+{
+
+	font-size: 50px;
+	padding: 5px;
+}
 
 
