@@ -1,6 +1,6 @@
 *{
 
-	font-family: tahoma;
+	
 	padding:0px;
 	margin: 0px;
 	box-sizing: border-box;
@@ -133,7 +133,7 @@ border:1px black solid;
 
 .items h3
 {
-	font-family: none;
+	f
 	color: yellow;
 	font-size: 60px;
 }
@@ -150,6 +150,14 @@ border:1px black solid;
 
 	font-size: 50px;
 	padding: 5px;
+}
+
+.response span
+{
+
+font-size: 500px;
+padding: 500px;
+
 }
 
 
